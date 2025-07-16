@@ -4,23 +4,23 @@
 
 - Visiting Researcher at the University of Galway, Ireland
 
-- Research Skills
+- **Research Skills:**
   
   Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Digital Twins, Cloud Computing, Edge Computing, Federated Learning, IoT, and IIoT
      
-- Programming languages:
+- **Programming languages:**
   
   Python, C++, C
 
-- Software / Tools Used:
+- **Software / Tools Used:**
 
   Azure IoT Edge, VS Code, Jupyter Notebook, Git, Gitlab, GitHub, Windows, Linux
 
-- Cloud tools:
+- **Cloud Tech:**
 
   MS Azure, Azure ML/AI Studio, Azure AutoML, Azure IoT Central, Azure Functions
 
-- CI/CD
+- **CI/CD**
 
   Github Actions, Docker
 <!--
