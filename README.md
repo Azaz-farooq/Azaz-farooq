@@ -14,7 +14,7 @@
 
 - **Software / Tools Used:**
 
-  Azure IoT Edge, VS Code, Jupyter Notebook, Git, Gitlab, GitHub, Windows, Linux
+  Azure IoT Edge, VS Code, Jupyter Notebook, Git, Gitbash, Gitlab, GitHub, Windows, Linux
 
 - **Cloud Tech:**
 
