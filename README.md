@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- Looking for Post-Doc/Researcher positions 
+
 - Doctoral Researcher at the University of Bologna, Italy
 
 - Visiting Researcher at the University of Galway, Ireland
