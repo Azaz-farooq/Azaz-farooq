@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Looking for Post-Doc/Researcher positions 
+- Looking for Post-Doc/Researcher positions across Europe
 
 - Doctoral Researcher at the University of Bologna, Italy
 
