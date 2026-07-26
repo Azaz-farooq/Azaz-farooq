@@ -2,7 +2,7 @@
 
 - Looking for Post-Doc/Researcher positions across Europe, Ireland, and Scandinavian countries
 
-- Doctoral Researcher at the University of Bologna, Italy
+- PhD in Computer Science & Engineering from the University of Bologna, Italy
 
 - Visiting Researcher at the University of Galway, Ireland
 
